@@ -1,0 +1,22 @@
+{
+  "name": "farzetki-darkblue-theme",
+  "publisher": "FarzetkiThemes",
+  "displayName": "Farzetki DarkBlue Theme",
+  "description": "A beautiful high-contrast dark blue theme for developers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Farzetki Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Farzetki Theme-color-theme.json"
+      }
+    ]
+  }
+}

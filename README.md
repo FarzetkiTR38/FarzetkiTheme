@@ -8,7 +8,7 @@ Whether you're hacking away late at night, feeling vampiric, or just want some v
 
 ## 🌟 The Collection
 
-This extension pack includes four meticulously crafted themes, each with fully custom UI elements (scrollbars, Git statuses, terminal colors) and perfectly matched syntax highlighting.
+This extension pack includes six meticulously crafted themes, each with fully custom UI elements (scrollbars, Git statuses, terminal colors) and perfectly matched syntax highlighting.
 
 ### 🔷 Farzetki DarkBlue
 The original. A sleek, highly readable icy-blue aesthetic built to reduce eye strain during long coding sessions. It features deep navy backgrounds combined with cyan and arctic blue syntax highlights. Perfect for total focus.
@@ -22,6 +22,12 @@ For those who code in the dark. A crimson/vampiric dark theme utilizing near-bla
 
 ### 🦄 Farzetki Unicorn
 Bring some magic to your IDE! A dark, cozy theme drenched in soft pink tones. Featuring deep rose-tinted backgrounds with hot pink and deep pink accents across the entire UI. Pure pink energy — no cyan, no distractions. For when you want your editor to feel warm and vibrant.
+
+### ⚫ Farzetki Dark
+The classic. A faithful recreation of VS Code's beloved default dark theme. If you love the original dark experience but want it under the Farzetki umbrella — this is your go-to. Clean, familiar, and timeless.
+
+### ⚪ Farzetki Light
+For the daylight coders. A clean, crisp white theme inspired by VS Code's default light experience. Bright backgrounds, sharp contrast, and easy-on-the-eyes syntax colors. Perfect for well-lit environments.
 
 ---
 

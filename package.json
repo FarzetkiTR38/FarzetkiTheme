@@ -2,8 +2,8 @@
   "name": "farzetki-darkblue-theme",
   "publisher": "FarzetkiThemes",
   "displayName": "Farzetki Themes",
-  "description": "A premium collection of beautifully crafted VS Code themes — DarkBlue, MatrixGreen, BloodMoon & Unicorn.",
-  "version": "0.0.3",
+  "description": "A premium collection of beautifully crafted VS Code themes — Dark, Light, DarkBlue, MatrixGreen, BloodMoon & Unicorn.",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.116.0"
   },
@@ -31,6 +31,16 @@
         "label": "Farzetki Unicorn Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Farzetki Unicorn Theme color-theme.json"
+      },
+      {
+        "label": "Farzetki Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Farzetki Dark Theme color-theme.json"
+      },
+      {
+        "label": "Farzetki Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Farzetki Light Theme color-theme.json"
       }
     ]
   }
